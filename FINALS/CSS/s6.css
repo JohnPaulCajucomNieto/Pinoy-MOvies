@@ -1,0 +1,281 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+  background-image: url(../Photos/bgd.png);
+}
+.oms{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.oms:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.eh{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.eh:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.sn{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.sn:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.ok{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.ok:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.bul{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.bul:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.the{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.the:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.uo{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.uo:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.tnd{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: -30px;
+    right: 0px;
+    left: 20px;
+    border: 2px solid #dc281e;
+}
+.tnd:hover{
+    transform: scale(1.1);
+    z-index: 2;
+}
+.sgs{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.sgs:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.cms{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.cms:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.ln{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.ln:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.sum{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.sum:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.as{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.as:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.tn{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.tn:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.lv{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.lv:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+.tm{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+    top: 40px;
+    border: 2px solid #dc281e;
+}
+.tm:hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+footer{
+  text-align: center;
+  background-color: 
+  #8e0e00;
+  color: white;
+  position: relative;
+  padding:60px;
+  top: 70px;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+ 
+}
+.icons a{
+  text-decoration: none;
+  color: white;
+  position: relative;
+  border-radius:100px;
+  width: 30px;
+  margin-right: 20px;
+  margin-top: 20px;   
+  bottom: 48px;
+
+
+
+}
+.icons ion-icon{
+  color: white;
+  font-size: 22px;   
+}
+.icons ion-icon:hover{
+  color: #dc281e;
+}
+ul{
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 100%; 
+  
+}
+ul li{
+  list-style: none;
+  margin-left: 20px;
+  margin-top: -5px;
+  margin-bottom:90px;
+  font-size: 13px;
+  position: relative;
+  left: 40px;
+}
+ul li a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+}
+#pp{
+  position: relative;
+  bottom: 10px;
+  left: -210px;
+}
